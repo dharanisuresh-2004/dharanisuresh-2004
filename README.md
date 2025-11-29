@@ -1,6 +1,8 @@
 <img src="dhaara.png" alt="profile" height="500" style="align-self: center;">
 
-## Hi there 👋# 💫 About Me:
+## Hi there 👋
+<br/>
+# 💫 About Me:
 I am a curious and passionate Front-End Developer who loves turning ideas into interactive digital experiences. With a solid foundation in Java and MySQL, along with HTML, CSS, and JavaScript, I focus on building web applications that are not just functional but also user-friendly and visually engaging.<br>
 
 ## 🌐 Socials:
